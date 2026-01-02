@@ -1,0 +1,143 @@
+[
+  {
+    "_id": "000000000000000000000001",
+    "name": "Venue 1",
+    "location": "1 Example St, City 1, Country",
+    "capacity": 57,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000002",
+    "name": "Venue 2",
+    "location": "2 Example St, City 2, Country",
+    "capacity": 94,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000003",
+    "name": "Venue 3",
+    "location": "3 Example St, City 3, Country",
+    "capacity": 131,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000004",
+    "name": "Venue 4",
+    "location": "4 Example St, City 4, Country",
+    "capacity": 168,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000005",
+    "name": "Venue 5",
+    "location": "5 Example St, City 5, Country",
+    "capacity": 205,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000006",
+    "name": "Venue 6",
+    "location": "6 Example St, City 6, Country",
+    "capacity": 242,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000007",
+    "name": "Venue 7",
+    "location": "7 Example St, City 7, Country",
+    "capacity": 279,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000008",
+    "name": "Venue 8",
+    "location": "8 Example St, City 8, Country",
+    "capacity": 316,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000009",
+    "name": "Venue 9",
+    "location": "9 Example St, City 9, Country",
+    "capacity": 353,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000010",
+    "name": "Venue 10",
+    "location": "10 Example St, City 10, Country",
+    "capacity": 390,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  // ... (venues 11 through 990 omitted for brevity in this preview)
+  {
+    "_id": "000000000000000000000991",
+    "name": "Venue 991",
+    "location": "991 Example St, City 991, Country",
+    "capacity": 4850,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000992",
+    "name": "Venue 992",
+    "location": "992 Example St, City 992, Country",
+    "capacity": 4887,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000993",
+    "name": "Venue 993",
+    "location": "993 Example St, City 993, Country",
+    "capacity": 4924,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000994",
+    "name": "Venue 994",
+    "location": "994 Example St, City 994, Country",
+    "capacity": 4961,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000995",
+    "name": "Venue 995",
+    "location": "995 Example St, City 995, Country",
+    "capacity": 4998,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000996",
+    "name": "Venue 996",
+    "location": "996 Example St, City 996, Country",
+    "capacity": 23,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000997",
+    "name": "Venue 997",
+    "location": "997 Example St, City 997, Country",
+    "capacity": 60,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000998",
+    "name": "Venue 998",
+    "location": "998 Example St, City 998, Country",
+    "capacity": 97,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000999",
+    "name": "Venue 999",
+    "location": "999 Example St, City 999, Country",
+    "capacity": 134,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "000000000000000000001000",
+    "name": "Venue 1000",
+    "location": "1000 Example St, City 1000, Country",
+    "capacity": 171,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]
